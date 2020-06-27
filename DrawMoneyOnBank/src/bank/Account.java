@@ -5,7 +5,7 @@ package bank;
  * @author 久拥-
  *
  */
-// 基于git修改的测试
+// aaa
 public class Account
 {
 	//账户余额
