@@ -5,7 +5,6 @@ package bank;
  * @author 久拥-
  *
  */
-// hello world
 public class Account
 {
 	//账户余额
