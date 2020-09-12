@@ -11,7 +11,5 @@ public class Client
 		
 		new Thread(bank).start();
 		new Thread(bank1).start();
-
-		System.out.println("克隆者添加！！");
 	}
 }
